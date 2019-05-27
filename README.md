@@ -1,5 +1,4 @@
-# destruction_burn_address
-LANAs sent to the burn address are excluded from circulation, the public burn address has no corresponding private key
+Coin burn in cryptocurrencies means sending some of the coins of native cryptocurrency or some other currency to a public address from which those particular coins can never be spent because the private keys of such an address are unobtainable.
 
 
 All coins sent to the burn address are not recoverable and therefore removed from circulation.
